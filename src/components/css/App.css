@@ -1,0 +1,10 @@
+tr {
+    display: block;
+    float: left;
+}
+
+th,td{
+    display: block;
+    padding: 5px;
+    
+}
